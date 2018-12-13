@@ -1,6 +1,6 @@
 {
-  "name": "contentful-cli",
-  "version": "0.17.3",
+  "name": "@casper/contentful-cli",
+  "version": "0.17.4-beta.1",
   "description": "Contentful CLI tool",
   "main": "bin/contentful.js",
   "bin": {
